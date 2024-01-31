@@ -19,7 +19,7 @@ public class Main {
 
             String line = br.readLine();
             while ( line != null){
-                
+
                 String[] vect = line.split(",");
 
                 String name = vect[0];
